@@ -1,0 +1,7 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mark Muller <mark.muller.w@gmail.com>",
+  "license": "MIT"
+}
